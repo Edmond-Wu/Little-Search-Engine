@@ -1,0 +1,9 @@
+Download the attached lse_project.zip file to your computer. DO NOT unzip it. Instead, follow the instructions on the Eclipse page under the section "Importing a Zipped Project into Eclipse" to get the entire project into your Eclipse workspace.
+
+You will see a project called Little Search Engine with a single class, search.LittleSearchEngine. The project also contains two sample text documents, directly under the project folder, AliceCh1.txt, and WowCh1.txt. You may use these samples to test your program. (Be sure to get other online text documents--or make your own--for more rigorous testing.) The names of these files are in a file called docs.txt that may be given as input to a driver that runs the search engine.
+
+The project also has a noisewords.txt file that contains a list of "noise" words, one per line. Noise words are commonplace words (such as "the") that must be ignored by the search engine. You will use this file (and this file ONLY) to filter out noise words from the documents you read, when gathering keywords.
+
+NOTE: You will need to write your own driver to test your implementation. This driver can be given a file that contains the names of all the documents, as well as the noise words file, as input. It can then set up a LittleSearchEngine object and call its methods as needed to test the implementation.
+
+shit shit shit
